@@ -1,0 +1,6 @@
+name: SneakCrops
+version: ${project.version}
+main: me.huawind.sneakcrops.Main
+api-version: 1.16
+authors: [ Huawind ]
+description: Sneaking on crops will grow them!
